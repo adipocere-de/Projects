@@ -1,2 +1,2 @@
-# Projects
-A collection of my useless programs. Mostly made in Python.
+# Calculator
+A calculator I wrote in two days. Don't add 0.1 and 0.2 together.
